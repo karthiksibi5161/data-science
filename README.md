@@ -1,5 +1,6 @@
 # data-science
-data-science technology don`t create a new one 
+data-science technology don`t create a new one,
+
 Now a days all technology depends on datascience ,it's a core for mechcine learning, AI, deep-learning
 but imagine datascience work only past data
  ex: human-faces have two eyes,one nose,one mouth
